@@ -1,3 +1,10 @@
+# 1.0.0 (2022-10-06)
+
+
+### Features
+
+* initial commit ([e344110](https://github.com/cervantes007G/taller-calculator/commit/e344110577f41cf594fc4e01b3ea46f163928c0a))
+
 # [1.3.0](https://github.com/cervantes007G/test2/compare/v1.2.0...v1.3.0) (2022-10-06)
 
 
